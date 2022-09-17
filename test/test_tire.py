@@ -1,5 +1,4 @@
 import unittest
-from datetime import datetime
 
 from tire.carrigan_tire import CarriganTire
 from tire.octoprime_tire import OctoprimeTire
